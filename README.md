@@ -40,11 +40,11 @@ $ git clone https://github.com/emerson-vieira/Podcastr.git && cd podcastr
 **Follow the steps below**
 ```bash
 # Install the dependencies
-$ yarn
+$ npm install or yarn
 # Run the backend fake server
-$ yarn server
+$ npm run server or yarn server
 # Run the web server
-$ yarn dev
+$ npm run dev or yarn dev
 ```
 
 The app will be available for access on your browser at `http://localhost:3000`
